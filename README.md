@@ -1,6 +1,6 @@
 # example-repo
 This is to demonstrate how to create git repository,
-and what shoudl be in them. 
+and what should be in them. 
 
 Your README.md should look like this:
 
