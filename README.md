@@ -13,4 +13,9 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [The Tool on the Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/06f39a31-20ce-408c-afee-8a02b484db1c)
 * [A Video of the Tool](https://www.youtube.com/watch?v=SDTPDpleOcM)
 
+In this repository, for ExampleTool you will find:
+* :x: Source code (not available)
+* :white_check_mark: The original tool (available)
+* :white_check_mark: A slightly modified version of the tool [Esha Sharma](https://github.com/EshaSharma) got working (available)
+
 This repository was constructed by [Esha Sharma](https://github.com/EshaSharma) and [Yihuan Dong](https://github.com/YihuanDong) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Jane Smith and John Doe for their help in establishing this repository. 
